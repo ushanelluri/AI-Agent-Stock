@@ -1,7 +1,7 @@
 
 ## *User Story*
 
--[ ] [#7] (https://github.com/ushanelluri/AI-Agent-Stock/issues/7) [Title: Multi-Source Sentiment-Driven Stock Prediction and Trading Strategy]
+-[ ] [#7] (https://github.com/ushanelluri/AI-Agent-Stock/issues/7) [Title:Multi-Source Sentiment-Driven Stock Prediction and Trading Strategy]
 
 *Story:*  
 -[ ] As a trader, I want to integrate sentiment analysis from diverse sources—including financial news, social media, and financial reports—into my stock market prediction model so that I can enhance my investment returns, make better-informed trading decisions, and validate my strategy with forward testing in real or simulated market environments.

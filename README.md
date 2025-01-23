@@ -1,7 +1,7 @@
 
 ## *User Story*
 
--[ ] [#7] (https://github.com/ushanelluri/AI-Agent-Stock/issues/7) [Title:Multi-Source Sentiment-Driven Stock Prediction and Trading Strategy]
+-[X] [#7] (https://github.com/ushanelluri/AI-Agent-Stock/issues/7) [Title:Multi-Source Sentiment-Driven Stock Prediction and Trading Strategy]
 
 *Story:*  
 -[ ] As a trader, I want to integrate sentiment analysis from diverse sources—including financial news, social media, and financial reports—into my stock market prediction model so that I can enhance my investment returns, make better-informed trading decisions, and validate my strategy with forward testing in real or simulated market environments.
@@ -53,7 +53,7 @@
 
 Below is a breakdown of tasks aligned with each major user story component, integrating *forward testing* as part of evaluation.
 
--[ ] [#1] (https://github.com/ushanelluri/AI-Agent-Stock/issues/1) [US12.1: Data Collection and Processing (20 ph)]
+-[X] [#1] (https://github.com/ushanelluri/AI-Agent-Stock/issues/1) [US12.1: Data Collection and Processing (20 ph)]
 *Agent: Data Collection Agent*  
 -[ ] Subtask 1: Develop pipelines for news articles (4 ph)  
 -[ ] Subtask 2: Collect social media data (4 ph)  
@@ -61,21 +61,21 @@ Below is a breakdown of tasks aligned with each major user story component, inte
 -[ ] Subtask 4: Clean and preprocess data (4 ph)  
 -[ ] Subtask 5: Conduct exploratory data analysis (4 ph)  
 
--[ ] [#2] (https://github.com/ushanelluri/AI-Agent-Stock/issues/2) [US12.2: Sentiment Analysis Model Development (25 ph)]
+-[X] [#2] (https://github.com/ushanelluri/AI-Agent-Stock/issues/2) [US12.2: Sentiment Analysis Model Development (25 ph)]
 *Agent: Sentiment Analysis Agent*  
 -[ ] Subtask 1: Train lexicon-based models (5 ph)  
 -[ ] Subtask 2: Train machine learning models (5 ph)  
 -[ ] Subtask 3: Train deep learning models (10 ph)  
 -[ ] Subtask 4: Address data challenges (5 ph)  
 
--[ ] [#3] (https://github.com/ushanelluri/AI-Agent-Stock/issues/3) [US12.3: Feature Engineering and Model Integration (20 ph)]
+-[X] [#3] (https://github.com/ushanelluri/AI-Agent-Stock/issues/3) [US12.3: Feature Engineering and Model Integration (20 ph)]
 *Agent: Feature Engineering Agent*  
 -[ ] Subtask 1: Extract sentiment features (5 ph)  
 -[ ] Subtask 2: Integrate features into prediction models (5 ph)  
 -[ ] Subtask 3: Explore feature engineering techniques (5 ph)  
 -[ ] Subtask 4: Implement model stacking (5 ph)  
 
--[ ] [#4] (https://github.com/ushanelluri/AI-Agent-Stock/issues/4) [US12.4: Trading Strategy Development and Backtesting (30 ph)]
+-[X] [#4] (https://github.com/ushanelluri/AI-Agent-Stock/issues/4) [US12.4: Trading Strategy Development and Backtesting (30 ph)]
 *Agent: Trading Strategy Agent*  
 -[ ] Subtask 1: Translate sentiment insights into trading signals (5 ph)  
 -[ ] Subtask 2: Develop backtesting frameworks (5 ph)  
@@ -83,14 +83,14 @@ Below is a breakdown of tasks aligned with each major user story component, inte
 -[ ] Subtask 4: Optimize trading parameters (5 ph)  
 -[ ] Subtask 5: Analyze results for improvement (5 ph)  
 
--[ ] [#5] (https://github.com/ushanelluri/AI-Agent-Stock/issues/5) [US12.5: Evaluation and Refinement (15 ph)]
+-[X] [#5] (https://github.com/ushanelluri/AI-Agent-Stock/issues/5) [US12.5: Evaluation and Refinement (15 ph)]
 *Agent: Evaluation Agent*  
 -[ ] Subtask 1: Conduct out-of-sample testing (5 ph)  
 -[ ] Subtask 2: Analyze performance metrics (5 ph)  
 -[ ] Subtask 3:Perform forward testing* in a simulated or live environment (5 ph)  
   
 
--[ ] [#6] (https://github.com/ushanelluri/AI-Agent-Stock/issues/6) [US12.6: Documentation and Reporting (10 ph)]
+-[X] [#6] (https://github.com/ushanelluri/AI-Agent-Stock/issues/6) [US12.6: Documentation and Reporting (10 ph)]
 *Agent: Documentation Agent*  
 -[ ] Subtask 1: Document project methodology and results (5 ph)  
 -[ ] Subtask 2: Prepare presentations and reports (5 ph)  
